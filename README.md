@@ -1,3 +1,3 @@
 - 👋 Hi, I’m Yokx
 - 👀 I’m interested in Web Development and Cyber Security
-- 🌱 I’m currently learning  Elixir and CS.
+- 🌱 I’m currently learning  Pentesting and SD.
